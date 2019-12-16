@@ -32,5 +32,4 @@ from RPi import GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 ```
 
-
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
