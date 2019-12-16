@@ -16,7 +16,7 @@ Typical pattern is to specify this package requirements conditionally based on p
 
 requirements.txt
 ```
-git+git://github.com/sanielfishawy/rpio/package-two@master#egg=package-two; sys_platform != 'raspberry'
+git+git://github.com/sanielfishawy/rpi_gpio_stub@master#egg=package-two; sys_platform != 'raspberry'
 RPi.GPIO == 0.7.0; sys_platform == 'raspberry'
 ```
 
