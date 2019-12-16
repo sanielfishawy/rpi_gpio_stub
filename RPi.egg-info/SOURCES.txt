@@ -1,0 +1,8 @@
+README.md
+setup.py
+RPi/GPIO.py
+RPi/__init__.py
+RPi.egg-info/PKG-INFO
+RPi.egg-info/SOURCES.txt
+RPi.egg-info/dependency_links.txt
+RPi.egg-info/top_level.txt
