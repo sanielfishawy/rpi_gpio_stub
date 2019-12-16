@@ -8,7 +8,7 @@ HIGH = 1
 def setmode(a):
     pass
 
-def setup(a, b):
+def setup(a, b, initial=False):
     pass
 
 def output(a, b):
